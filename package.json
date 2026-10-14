@@ -1,0 +1,17 @@
+{
+  "name": "playwrightautomationoct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@azure/identity": "^4.14.0",
+    "@azure/playwright": "^1.1.6",
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
